@@ -1,0 +1,5 @@
+bin\Debug\firstprogramwithvs.exe
+bin\Debug\firstprogramwithvs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\firstprogramwithvs.exe
+obj\Debug\firstprogramwithvs.pdb

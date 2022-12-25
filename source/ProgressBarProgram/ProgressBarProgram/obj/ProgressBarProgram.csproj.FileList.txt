@@ -1,0 +1,10 @@
+bin\Debug\ProgressBarProgram.exe
+bin\Debug\ProgressBarProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProgressBarProgram.Form1.resources
+obj\Debug\ProgressBarProgram.Properties.Resources.resources
+obj\Debug\ProgressBarProgram.csproj.GenerateResource.Cache
+obj\Debug\ProgressBarProgram.exe
+obj\Debug\ProgressBarProgram.pdb
+obj\Debug\ProgressBarProgram.background.bmp
+obj\Debug\ProgressBarProgram.each.bmp

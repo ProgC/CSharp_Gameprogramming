@@ -1,0 +1,8 @@
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\Game_BMSPlayer.exe
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\Game_BMSPlayer.pdb
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\bin\Debug\Game_BMSPlayer.exe
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\bin\Debug\Game_BMSPlayer.pdb
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\Game_BMSPlayer.Form1.resources
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\Game_BMSPlayer.Properties.Resources.resources
+D:\저술\저술\csharp\Game_BMSPlayer\Game_BMSPlayer\obj\Debug\Game_BMSPlayer.csproj.GenerateResource.Cache

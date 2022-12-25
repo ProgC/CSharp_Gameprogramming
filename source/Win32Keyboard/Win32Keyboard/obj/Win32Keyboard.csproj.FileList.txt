@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Win32Keyboard.Form1.resources
+obj\Debug\Win32Keyboard.Properties.Resources.resources
+obj\Debug\Win32Keyboard.csproj.GenerateResource.Cache
+bin\Debug\Win32Keyboard.exe
+bin\Debug\Win32Keyboard.pdb
+obj\Debug\Win32Keyboard.exe
+obj\Debug\Win32Keyboard.pdb

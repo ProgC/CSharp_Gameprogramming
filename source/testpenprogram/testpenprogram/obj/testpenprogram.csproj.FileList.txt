@@ -1,0 +1,8 @@
+bin\Debug\testpenprogram.exe
+bin\Debug\testpenprogram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\testpenprogram.Form1.resources
+obj\Debug\testpenprogram.Properties.Resources.resources
+obj\Debug\testpenprogram.csproj.GenerateResource.Cache
+obj\Debug\testpenprogram.exe
+obj\Debug\testpenprogram.pdb

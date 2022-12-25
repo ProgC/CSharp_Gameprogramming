@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Function_Code.exe
+bin\Debug\Function_Code.pdb
+obj\Debug\Function_Code.exe
+obj\Debug\Function_Code.pdb

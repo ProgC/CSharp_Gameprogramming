@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9" />
+  <Class Name="Game_RopePong.Ball" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Ball.cs</FileName>
+      <HashCode>AAQAAAAAAIAAgAAAAAAAAAAAAAAAAAAAABAABAgACgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.Form1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAgAQEADCACAAAAACAAAACAAAAAAggAAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.GameDataStructure" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameDataStructure.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.MassBasedPoint" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameDataStructure.cs</FileName>
+      <HashCode>AKQIAAAwCAAAIAAgAAAAAAAAAACgAAAAICAMAACECEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.GameWorld" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameWorld.cs</FileName>
+      <HashCode>ACQAAAACFAAAEAQARAAAgEAAIACEAAAAABACAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.Spring" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RopeSimulation.cs</FileName>
+      <HashCode>AAAAABCAAAAAAAAAAAAAAAAEABAAAAAEoAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.RopeSimulation" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RopeSimulation.cs</FileName>
+      <HashCode>EAQAIAAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_RopePong.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Game_RopePong.Vector2D" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameDataStructure.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAcAUAAABACIAAAABAAABgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+</ClassDiagram>

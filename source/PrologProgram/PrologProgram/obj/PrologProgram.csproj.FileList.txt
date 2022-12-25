@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrologProgram.Form1.resources
+obj\Debug\PrologProgram.Properties.Resources.resources
+obj\Debug\PrologProgram.csproj.GenerateResource.Cache
+bin\Debug\PrologProgram.exe
+bin\Debug\PrologProgram.pdb
+obj\Debug\PrologProgram.exe
+obj\Debug\PrologProgram.pdb

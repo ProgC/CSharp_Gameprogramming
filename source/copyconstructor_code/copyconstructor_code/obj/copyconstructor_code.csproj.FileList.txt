@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\copyconstructor_code.exe
+bin\Debug\copyconstructor_code.pdb
+obj\Debug\copyconstructor_code.exe
+obj\Debug\copyconstructor_code.pdb

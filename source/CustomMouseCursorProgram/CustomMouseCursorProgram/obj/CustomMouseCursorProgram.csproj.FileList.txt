@@ -1,0 +1,8 @@
+bin\Debug\CustomMouseCursorProgram.exe
+bin\Debug\CustomMouseCursorProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomMouseCursorProgram.Form1.resources
+obj\Debug\CustomMouseCursorProgram.Properties.Resources.resources
+obj\Debug\CustomMouseCursorProgram.csproj.GenerateResource.Cache
+obj\Debug\CustomMouseCursorProgram.exe
+obj\Debug\CustomMouseCursorProgram.pdb

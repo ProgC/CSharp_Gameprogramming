@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outkeyword", "outkeyword\outkeyword.csproj", "{818F2C8C-219E-4EFD-B7E6-E4A152FF4BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818F2C8C-219E-4EFD-B7E6-E4A152FF4BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818F2C8C-219E-4EFD-B7E6-E4A152FF4BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818F2C8C-219E-4EFD-B7E6-E4A152FF4BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818F2C8C-219E-4EFD-B7E6-E4A152FF4BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+bin\Debug\CallByValue.exe
+bin\Debug\CallByValue.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CallByValue.exe
+obj\Debug\CallByValue.pdb

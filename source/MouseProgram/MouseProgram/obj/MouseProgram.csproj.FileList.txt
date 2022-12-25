@@ -1,0 +1,8 @@
+bin\Debug\MouseProgram.exe
+bin\Debug\MouseProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MouseProgram.Form1.resources
+obj\Debug\MouseProgram.Properties.Resources.resources
+obj\Debug\MouseProgram.csproj.GenerateResource.Cache
+obj\Debug\MouseProgram.exe
+obj\Debug\MouseProgram.pdb

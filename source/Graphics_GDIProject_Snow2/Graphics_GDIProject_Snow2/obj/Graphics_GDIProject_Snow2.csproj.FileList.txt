@@ -1,0 +1,8 @@
+bin\Debug\Graphics_GDIProject_Snow2.exe
+bin\Debug\Graphics_GDIProject_Snow2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_GDIProject_Snow2.Form1.resources
+obj\Debug\Graphics_GDIProject_Snow2.Properties.Resources.resources
+obj\Debug\Graphics_GDIProject_Snow2.csproj.GenerateResource.Cache
+obj\Debug\Graphics_GDIProject_Snow2.exe
+obj\Debug\Graphics_GDIProject_Snow2.pdb

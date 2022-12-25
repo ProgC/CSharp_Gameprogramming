@@ -1,0 +1,4 @@
+C:\myp\저술\csharp\Game_Flight\Game_Flight\obj\Debug\Game_Flight.exe
+C:\myp\저술\csharp\Game_Flight\Game_Flight\obj\Debug\Game_Flight.pdb
+D:\저술\저술\csharp\Game_Flight\Game_Flight\obj\Debug\Game_Flight.exe
+D:\저술\저술\csharp\Game_Flight\Game_Flight\obj\Debug\Game_Flight.pdb

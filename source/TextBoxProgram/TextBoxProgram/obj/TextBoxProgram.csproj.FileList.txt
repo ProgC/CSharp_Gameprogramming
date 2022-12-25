@@ -1,0 +1,8 @@
+bin\Debug\TextBoxProgram.exe
+bin\Debug\TextBoxProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextBoxProgram.Form1.resources
+obj\Debug\TextBoxProgram.Properties.Resources.resources
+obj\Debug\TextBoxProgram.csproj.GenerateResource.Cache
+obj\Debug\TextBoxProgram.exe
+obj\Debug\TextBoxProgram.pdb

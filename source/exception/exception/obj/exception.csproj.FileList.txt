@@ -1,0 +1,5 @@
+bin\Debug\exception.exe
+bin\Debug\exception.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\exception.exe
+obj\Debug\exception.pdb

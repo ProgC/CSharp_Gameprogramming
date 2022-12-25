@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9" />
+  <Class Name="Game_Flight2.AniFrame" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AniFrame.cs</FileName>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Animation" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Animation.cs</FileName>
+      <HashCode>AgAAAAgAACCAAAAIAAAABAAAAAAAAAAQABAAAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.BasicPattern" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BasicPattern.cs</FileName>
+      <HashCode>AAYAQBAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Bullet" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bullet.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAAAAAAIAAAAAAABAAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.BulletStrategyMgr" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BulletStrategyMgr.cs</FileName>
+      <HashCode>AAQAABAAABAABAAAAAAAACAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.CirclePattern" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CirclePattern.cs</FileName>
+      <HashCode>AAYAQBAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.CollisionMgr" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CollisionMgr.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAEAgAAEAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.CollisionPair" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CollisionPair.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAIAIAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Flight" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Flight.cs</FileName>
+      <HashCode>AAUBAQAACAAAAIAAAAIAAAAAgAFAAAAIQBAQAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.FlightListener" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FlightListener.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.FlightListenerSecond" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FlightListenerSecond.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.FlightWorld" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FlightWorld.cs</FileName>
+      <HashCode>AAAEABEAFADAAQQAQBAAEEAAAAAAAAAAAAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Form1" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAEAAEADCAAEAAABCAAAACAAAAAAggAAQAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Listener" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Listener.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.MoveableEntity" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MoveableEntity.cs</FileName>
+      <HashCode>AQUJAQAIAAAAIAAgAAIAAAYEAACAAAAoQBAAEAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.PatternState" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PatternState.cs</FileName>
+      <HashCode>AAYAABAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Program" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KModule.GDIBuffer" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GDIBuffer.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAABARQAAAAAAABQAAAAEAgIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KModule.KController" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>KController.cs</FileName>
+      <HashCode>AEQAAAQAAACAAAAAAAAIAAQAAAYAAAAAQQAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Properties.Resources" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAACAAAAABEAAIBQAAAAAAAAAABAIQAYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Flight2.Properties.Settings" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Game_Flight2.Vector2D" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MoveableEntity.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAEAEAAABAAAAAIAAAAABgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+</ClassDiagram>

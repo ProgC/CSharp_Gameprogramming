@@ -1,0 +1,8 @@
+bin\Debug\LabelBackground.exe
+bin\Debug\LabelBackground.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LabelBackground.Form1.resources
+obj\Debug\LabelBackground.Properties.Resources.resources
+obj\Debug\LabelBackground.csproj.GenerateResource.Cache
+obj\Debug\LabelBackground.exe
+obj\Debug\LabelBackground.pdb

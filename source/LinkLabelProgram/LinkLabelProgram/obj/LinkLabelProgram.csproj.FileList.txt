@@ -1,0 +1,8 @@
+bin\Debug\LinkLabelProgram.exe
+bin\Debug\LinkLabelProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LinkLabelProgram.Form1.resources
+obj\Debug\LinkLabelProgram.Properties.Resources.resources
+obj\Debug\LinkLabelProgram.csproj.GenerateResource.Cache
+obj\Debug\LinkLabelProgram.exe
+obj\Debug\LinkLabelProgram.pdb

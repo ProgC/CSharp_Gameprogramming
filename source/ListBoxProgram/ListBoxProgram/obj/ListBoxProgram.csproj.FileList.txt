@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListBoxProgram.Properties.Resources.resources
+obj\Debug\ListBoxProgram.csproj.GenerateResource.Cache
+bin\Debug\ListBoxProgram.exe
+bin\Debug\ListBoxProgram.pdb
+obj\Debug\ListBoxProgram.exe
+obj\Debug\ListBoxProgram.pdb
+obj\Debug\ListBoxProgram.Form1.resources

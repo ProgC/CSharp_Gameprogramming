@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\QueueProgram.exe
+bin\Debug\QueueProgram.pdb
+obj\Debug\QueueProgram.exe
+obj\Debug\QueueProgram.pdb

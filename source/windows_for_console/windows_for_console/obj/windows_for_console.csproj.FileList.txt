@@ -1,0 +1,7 @@
+bin\Debug\windows_for_console.exe
+bin\Debug\windows_for_console.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\windows_for_console.exe
+obj\Debug\windows_for_console.pdb
+obj\Debug\windows_for_console.MyForm.resources
+obj\Debug\windows_for_console.csproj.GenerateResource.Cache

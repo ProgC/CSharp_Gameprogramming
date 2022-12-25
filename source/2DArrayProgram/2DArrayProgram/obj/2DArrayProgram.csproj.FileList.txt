@@ -1,0 +1,5 @@
+bin\Debug\2DArrayProgram.exe
+bin\Debug\2DArrayProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\2DArrayProgram.exe
+obj\Debug\2DArrayProgram.pdb

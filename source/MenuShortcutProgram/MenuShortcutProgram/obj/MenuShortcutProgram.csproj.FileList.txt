@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MenuShortcutProgram.Properties.Resources.resources
+obj\Debug\MenuShortcutProgram.csproj.GenerateResource.Cache
+bin\Debug\MenuShortcutProgram.exe
+bin\Debug\MenuShortcutProgram.pdb
+obj\Debug\MenuShortcutProgram.exe
+obj\Debug\MenuShortcutProgram.pdb

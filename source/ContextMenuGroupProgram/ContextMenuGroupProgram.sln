@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuGroupProgram", "ContextMenuGroupProgram\ContextMenuGroupProgram.csproj", "{E8CDA3D8-724A-4881-9D0E-A314B1458FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CDA3D8-724A-4881-9D0E-A314B1458FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CDA3D8-724A-4881-9D0E-A314B1458FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CDA3D8-724A-4881-9D0E-A314B1458FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CDA3D8-724A-4881-9D0E-A314B1458FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

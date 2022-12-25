@@ -1,0 +1,5 @@
+bin\Debug\StaticMemberProgram.exe
+bin\Debug\StaticMemberProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StaticMemberProgram.exe
+obj\Debug\StaticMemberProgram.pdb

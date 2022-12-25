@@ -1,0 +1,8 @@
+bin\Debug\SimpleWindowProgram.exe
+bin\Debug\SimpleWindowProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleWindowProgram.Form1.resources
+obj\Debug\SimpleWindowProgram.Properties.Resources.resources
+obj\Debug\SimpleWindowProgram.csproj.GenerateResource.Cache
+obj\Debug\SimpleWindowProgram.exe
+obj\Debug\SimpleWindowProgram.pdb

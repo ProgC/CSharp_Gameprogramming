@@ -1,0 +1,8 @@
+bin\Debug\Graphics_DrawCircleWithPathGradientBrush.exe
+bin\Debug\Graphics_DrawCircleWithPathGradientBrush.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawCircleWithPathGradientBrush.Form1.resources
+obj\Debug\Graphics_DrawCircleWithPathGradientBrush.Properties.Resources.resources
+obj\Debug\Graphics_DrawCircleWithPathGradientBrush.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawCircleWithPathGradientBrush.exe
+obj\Debug\Graphics_DrawCircleWithPathGradientBrush.pdb

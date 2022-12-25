@@ -1,0 +1,9 @@
+bin\Debug\Graphics_DrawRectangleWithHatchBrush.exe
+bin\Debug\Graphics_DrawRectangleWithHatchBrush.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.Form1.resources
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.Properties.Resources.resources
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.exe
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.pdb
+obj\Debug\Graphics_DrawRectangleWithHatchBrush.HatchStyleViewer.resources

@@ -1,0 +1,5 @@
+bin\Debug\while_code.exe
+bin\Debug\while_code.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\while_code.exe
+obj\Debug\while_code.pdb

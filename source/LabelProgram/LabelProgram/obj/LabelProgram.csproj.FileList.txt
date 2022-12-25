@@ -1,0 +1,8 @@
+bin\Debug\LabelProgram.exe
+bin\Debug\LabelProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LabelProgram.Form1.resources
+obj\Debug\LabelProgram.Properties.Resources.resources
+obj\Debug\LabelProgram.csproj.GenerateResource.Cache
+obj\Debug\LabelProgram.exe
+obj\Debug\LabelProgram.pdb

@@ -1,0 +1,9 @@
+bin\Debug\Graphics_DrawRectangleWithBrush.exe
+bin\Debug\Graphics_DrawRectangleWithBrush.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawRectangleWithBrush.Form1.resources
+obj\Debug\Graphics_DrawRectangleWithBrush.Properties.Resources.resources
+obj\Debug\Graphics_DrawRectangleWithBrush.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawRectangleWithBrush.exe
+obj\Debug\Graphics_DrawRectangleWithBrush.pdb
+obj\Debug\Graphics_DrawRectangleWithBrush.BrushesTable.resources

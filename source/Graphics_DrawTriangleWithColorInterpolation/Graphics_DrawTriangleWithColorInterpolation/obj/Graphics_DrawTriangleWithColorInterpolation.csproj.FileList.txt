@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawTriangleWithColorInterpolation.Form1.resources
+obj\Debug\Graphics_DrawTriangleWithColorInterpolation.Properties.Resources.resources
+obj\Debug\Graphics_DrawTriangleWithColorInterpolation.csproj.GenerateResource.Cache
+bin\Debug\Graphics_DrawTriangleWithColorInterpolation.exe
+bin\Debug\Graphics_DrawTriangleWithColorInterpolation.pdb
+obj\Debug\Graphics_DrawTriangleWithColorInterpolation.exe
+obj\Debug\Graphics_DrawTriangleWithColorInterpolation.pdb

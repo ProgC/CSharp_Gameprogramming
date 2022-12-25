@@ -1,0 +1,5 @@
+obj\Debug\forsentance.exe
+obj\Debug\forsentance.pdb
+bin\Debug\forsentance.exe
+bin\Debug\forsentance.pdb
+obj\Debug\ResolveAssemblyReference.cache

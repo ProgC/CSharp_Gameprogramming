@@ -1,0 +1,5 @@
+bin\Debug\IndexerProgram.exe
+bin\Debug\IndexerProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IndexerProgram.exe
+obj\Debug\IndexerProgram.pdb

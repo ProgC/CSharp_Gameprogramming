@@ -1,0 +1,10 @@
+bin\Debug\ImageListBoxProgram.exe
+bin\Debug\ImageListBoxProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageListBoxProgram.Form1.resources
+obj\Debug\ImageListBoxProgram.Properties.Resources.resources
+obj\Debug\ImageListBoxProgram.csproj.GenerateResource.Cache
+obj\Debug\ImageListBoxProgram.exe
+obj\Debug\ImageListBoxProgram.pdb
+obj\Debug\ImageListBoxProgram.s.bmp
+obj\Debug\ImageListBoxProgram.n.bmp

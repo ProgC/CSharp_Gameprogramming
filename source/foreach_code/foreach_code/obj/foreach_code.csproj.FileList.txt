@@ -1,0 +1,5 @@
+bin\Debug\foreach_code.exe
+bin\Debug\foreach_code.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\foreach_code.exe
+obj\Debug\foreach_code.pdb

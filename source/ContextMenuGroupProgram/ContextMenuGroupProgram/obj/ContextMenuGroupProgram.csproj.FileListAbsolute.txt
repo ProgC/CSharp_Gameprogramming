@@ -1,0 +1,2 @@
+C:\myp\저술\csharp\ContextMenuGroupProgram\ContextMenuGroupProgram\obj\Debug\ContextMenuGroupProgram.exe
+C:\myp\저술\csharp\ContextMenuGroupProgram\ContextMenuGroupProgram\obj\Debug\ContextMenuGroupProgram.pdb

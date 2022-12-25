@@ -1,0 +1,8 @@
+bin\Debug\MenuGroupProgram.exe
+bin\Debug\MenuGroupProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MenuGroupProgram.Properties.Resources.resources
+obj\Debug\MenuGroupProgram.csproj.GenerateResource.Cache
+obj\Debug\MenuGroupProgram.exe
+obj\Debug\MenuGroupProgram.pdb
+obj\Debug\MenuGroupProgram.Form1.resources

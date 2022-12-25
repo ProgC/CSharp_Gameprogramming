@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\simplereflection.exe
+bin\Debug\simplereflection.pdb
+obj\Debug\simplereflection.exe
+obj\Debug\simplereflection.pdb

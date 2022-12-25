@@ -1,0 +1,5 @@
+bin\Debug\classparameter.exe
+bin\Debug\classparameter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\classparameter.exe
+obj\Debug\classparameter.pdb

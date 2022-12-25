@@ -1,0 +1,12 @@
+bin\Debug\ComboBoxProgram.exe
+bin\Debug\ComboBoxProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ComboBoxProgram.Form1.resources
+obj\Debug\ComboBoxProgram.Properties.Resources.resources
+obj\Debug\ComboBoxProgram.csproj.GenerateResource.Cache
+obj\Debug\ComboBoxProgram.exe
+obj\Debug\ComboBoxProgram.pdb
+obj\Debug\ComboBoxProgram.jpn.bmp
+obj\Debug\ComboBoxProgram.kor.bmp
+obj\Debug\ComboBoxProgram.usa.bmp
+obj\Debug\ComboBoxProgram.can.bmp

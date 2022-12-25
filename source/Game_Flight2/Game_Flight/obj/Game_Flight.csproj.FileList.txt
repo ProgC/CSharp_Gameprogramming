@@ -1,0 +1,8 @@
+bin\Debug\Game_Flight.exe
+bin\Debug\Game_Flight.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Game_Flight.Form1.resources
+obj\Debug\Game_Flight.Properties.Resources.resources
+obj\Debug\Game_Flight.csproj.GenerateResource.Cache
+obj\Debug\Game_Flight.exe
+obj\Debug\Game_Flight.pdb

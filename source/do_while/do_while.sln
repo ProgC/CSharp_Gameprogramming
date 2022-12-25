@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do_while", "do_while\do_while.csproj", "{4CBAEA6F-8858-4AD1-AE79-CAA8C11EF236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBAEA6F-8858-4AD1-AE79-CAA8C11EF236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBAEA6F-8858-4AD1-AE79-CAA8C11EF236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBAEA6F-8858-4AD1-AE79-CAA8C11EF236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBAEA6F-8858-4AD1-AE79-CAA8C11EF236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

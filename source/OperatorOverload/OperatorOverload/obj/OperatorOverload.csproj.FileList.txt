@@ -1,0 +1,5 @@
+bin\Debug\OperatorOverload.exe
+bin\Debug\OperatorOverload.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OperatorOverload.exe
+obj\Debug\OperatorOverload.pdb

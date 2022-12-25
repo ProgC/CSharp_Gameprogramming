@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.MyImage.bmp
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.Properties.Resources.resources
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.Form1.resources
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.csproj.GenerateResource.Cache
+bin\Debug\Graphics_DrawRectangleWithTextureBrushEffect.exe
+bin\Debug\Graphics_DrawRectangleWithTextureBrushEffect.pdb
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.exe
+obj\Debug\Graphics_DrawRectangleWithTextureBrushEffect.pdb

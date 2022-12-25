@@ -1,0 +1,8 @@
+bin\Debug\Graphics_Line.exe
+bin\Debug\Graphics_Line.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_Line.Form1.resources
+obj\Debug\Graphics_Line.Properties.Resources.resources
+obj\Debug\Graphics_Line.csproj.GenerateResource.Cache
+obj\Debug\Graphics_Line.exe
+obj\Debug\Graphics_Line.pdb

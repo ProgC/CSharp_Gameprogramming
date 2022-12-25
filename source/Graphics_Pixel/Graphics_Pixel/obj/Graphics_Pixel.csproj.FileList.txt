@@ -1,0 +1,8 @@
+bin\Debug\Graphics_Pixel.exe
+bin\Debug\Graphics_Pixel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_Pixel.Form1.resources
+obj\Debug\Graphics_Pixel.Properties.Resources.resources
+obj\Debug\Graphics_Pixel.csproj.GenerateResource.Cache
+obj\Debug\Graphics_Pixel.exe
+obj\Debug\Graphics_Pixel.pdb

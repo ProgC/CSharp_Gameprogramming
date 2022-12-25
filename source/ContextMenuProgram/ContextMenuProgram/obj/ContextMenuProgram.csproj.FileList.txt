@@ -1,0 +1,8 @@
+bin\Debug\ContextMenuProgram.exe
+bin\Debug\ContextMenuProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContextMenuProgram.Form1.resources
+obj\Debug\ContextMenuProgram.Properties.Resources.resources
+obj\Debug\ContextMenuProgram.csproj.GenerateResource.Cache
+obj\Debug\ContextMenuProgram.exe
+obj\Debug\ContextMenuProgram.pdb

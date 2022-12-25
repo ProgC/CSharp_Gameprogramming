@@ -1,0 +1,8 @@
+bin\Debug\CheckBoxForMediatorPattern.exe
+bin\Debug\CheckBoxForMediatorPattern.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CheckBoxForMediatorPattern.Form1.resources
+obj\Debug\CheckBoxForMediatorPattern.Properties.Resources.resources
+obj\Debug\CheckBoxForMediatorPattern.csproj.GenerateResource.Cache
+obj\Debug\CheckBoxForMediatorPattern.exe
+obj\Debug\CheckBoxForMediatorPattern.pdb

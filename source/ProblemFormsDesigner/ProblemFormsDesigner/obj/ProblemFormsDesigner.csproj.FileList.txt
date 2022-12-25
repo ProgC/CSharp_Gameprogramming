@@ -1,0 +1,8 @@
+bin\Debug\ProblemFormsDesigner.exe
+bin\Debug\ProblemFormsDesigner.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProblemFormsDesigner.Properties.Resources.resources
+obj\Debug\ProblemFormsDesigner.csproj.GenerateResource.Cache
+obj\Debug\ProblemFormsDesigner.exe
+obj\Debug\ProblemFormsDesigner.pdb
+obj\Debug\ProblemFormsDesigner.Form1.resources

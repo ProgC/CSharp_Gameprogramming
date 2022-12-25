@@ -1,0 +1,8 @@
+bin\Debug\Graphics_DrawRectangle.exe
+bin\Debug\Graphics_DrawRectangle.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawRectangle.Form1.resources
+obj\Debug\Graphics_DrawRectangle.Properties.Resources.resources
+obj\Debug\Graphics_DrawRectangle.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawRectangle.exe
+obj\Debug\Graphics_DrawRectangle.pdb

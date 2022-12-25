@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files\microsoft visual studio 8\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.Xsl"?>
+<FxCopReport Version="8">
+ <Namespaces>
+  <Namespace Name="Game_Flight2">
+   <Messages>
+    <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="Breaking">
+     <Issue Name="Namespace" Certainty="95" Level="Error">'Game_Flight2' 네임스페이스에서 모든 밑줄을 제거하십시오.</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="C:\myp\저술\csharp\Game_Flight2\Game_Flight\bin\Debug\Game_Flight2.exe">
+   <Modules>
+    <Module Name="game_flight2.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldDeclareMinimumSecurity" Category="Microsoft.Usage" CheckId="CA2209" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="Breaking">
+       <Issue Certainty="95" Level="CriticalError">'Game_Flight2' 어셈블리에 잘못된 권한 요청이 있습니다. SecurityAction.RequestMinimum을 사용하여 항상 최소 보안 권한을 지정해야 합니다.</Issue>
+      </Message>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">강력한 이름의 키로 'Game_Flight2'을(를) 서명하십시오.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+       <Issue Name="NoAttr" Certainty="95" Level="Error">'Game_Flight2'은(는) CLSCompliantAttribute로 표시되어야 하며 해당 값은 true여야 합니다.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="Game_Flight2">
+       <Types>
+        <Type Name="Animation" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Animation.cs" Line="11">Animation.Animation()에서 System.Boolean 형식의 bEnd 필드를 false(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Animation.cs" Line="11">Animation.Animation()에서 System.Int32 형식의 nCurFrame 필드를 0(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Animation.cs" Line="11">Animation.Animation()에서 System.Int32 형식의 nMaxFrame 필드를 0(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Animation.cs" Line="11">Animation.Animation()에서 System.Int32 형식의 nTickFrame 필드를 0(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="BulletStrategyMgr" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".ctor(Game_Flight2.FlightWorld)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="BulletStrategyMgr.cs" Line="9">BulletStrategyMgr.BulletStrategyMgr(FlightWorld)에서 Game_Flight2.PatternState 형식의 CurrentState 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="BulletStrategyMgr.cs" Line="9">BulletStrategyMgr.BulletStrategyMgr(FlightWorld)에서 Game_Flight2.FlightWorld 형식의 refWorld 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="CollisionPair" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="CollisionPair.cs" Line="9">CollisionPair.CollisionPair()에서 Game_Flight2.MoveableEntity 형식의 source 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="CollisionPair.cs" Line="9">CollisionPair.CollisionPair()에서 Game_Flight2.MoveableEntity 형식의 target 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Flight" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="FinalStateTbl" Kind="Field" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="Member" TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="Breaking">
+             <Issue Certainty="25" Level="Warning">'FinalStateTbl'은(는) 다차원 배열입니다. 가능하면 이 배열을 가변 배열로 바꾸십시오. 가변 배열은 CLS 규격이 아닙니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FlightListenerSecond" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="AvoidUninstantiatedInternalClasses" Category="Microsoft.Performance" CheckId="CA1812" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+           <Issue Certainty="75" Level="Warning">'Game_Flight2.FlightListenerSecond'은(는) 인스턴스화되지 않은 내부 클래스입니다. 어셈블리에서 해당 코드를 제거하십시오. 이 클래스가 정적 메서드만 포함하도록 의도된 경우에는 전용 생성자를 추가하여 컴파일러에서 기본 생성자가 생성되지 않도록 하십시오.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="Form1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name=".ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Form1.Designer.cs" Line="8">Form1.Form1()에서 Game_Flight2.FlightWorld 형식의 world 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="Form1_Load(System.Object,System.EventArgs):System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotUseTimersThatPreventPowerStateChanges" Category="Microsoft.Mobility" CheckId="CA1601" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="Breaking">
+             <Issue Certainty="90" Level="Error" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Form1.cs" Line="29">Form1.Form1_Load(Object, EventArgs):Void 메서드에서 Timer.set_Interval(Int32):Void에 대한 호출을 수정하여 타이머 간격을 1초보다 크거나 같은 값으로 설정합니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="InitializeComponent():System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="Form1.Designer.cs" Line="39">Form1.InitializeComponent():Void은(는) 리터럴을 Control.set_Text(String):Void에 대한 호출의 1 매개 변수로 전달합니다. 'Flight, C# game development' 대신 리소스 테이블에서 다음 문자열 인수를 가져오십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="MoveableEntity" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="MoveableEntity.cs" Line="42">MoveableEntity.MoveableEntity()에서 Game_Flight2.Listener 형식의 pListener 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="Radius" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Accessors>
+            <Accessor Name="set_Radius(System.Double):System.Void" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+             <Messages>
+              <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+               <Issue Certainty="75" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="MoveableEntity.cs" Line="78">'MoveableEntity.set_Radius(Double):Void'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="KModule">
+       <Types>
+        <Type Name="GDIBuffer" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".cctor()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="GDIBuffer.cs" Line="10">GDIBuffer.GDIBuffer()에서 KModule.GDIBuffer 형식의 oInstance 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="GetHeight():System.Int32" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="GDIBuffer.cs" Line="24">'GDIBuffer.GetHeight():Int32'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="GetWidth():System.Int32" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="GDIBuffer.cs" Line="19">'GDIBuffer.GetWidth():Int32'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="Instance():KModule.GDIBuffer" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="Breaking">
+             <Issue Name="TooGeneric" Certainty="95" Level="Error" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="GDIBuffer.cs" Line="70">GDIBuffer.Instance():GDIBuffer이(가) 충분히 구체적이지 않고 사용자 정의 코드에서 발생하면 안 되는 'System.Exception' 형식의 예외를 만듭니다. 이러한 예외 인스턴스가 throw되면 다른 예외 형식을 사용하십시오.</Issue>
+            </Message>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="GDIBuffer.cs" Line="74">GDIBuffer.Instance():GDIBuffer은(는) catch한 예외를 다시 throw하고 인수로 명시적으로 지정합니다. 예외가 처음 발생된 스택 위치를 유지하려면 인수 없이 'throw'를 대신 사용하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="KController" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name=".cctor()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="KController.cs" Line="12">KController.KController()에서 KModule.KController 형식의 oInstance 필드를 null(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="CountOfKey():System.Int32" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="KController.cs" Line="52">'KController.CountOfKey():Int32'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="GetKeyStateSingle(System.Int32):System.Boolean" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2007-05-25 08:33:47Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\myp\저술\csharp\Game_Flight2\Game_Flight" File="KController.cs" Line="85">'KController.GetKeyStateSingle(Int32):Boolean'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldDeclareMinimumSecurity" Category="Microsoft.Usage" CheckId="CA2209">
+   <Name>어셈블리는 최소 보안을 선언해야 합니다.</Name>
+   <Description>권한 요청은 어셈블리의 코드가 이미 실행된 후에 예외가 throw되지 않도록 합니다. 권한 요청이 어셈블리에 지정되어 있는 경우 어셈블리에 충분한 권한이 없으면 런타임에 어셈블리가 로드되지 않습니다. 이 규칙 위반을 해결하려면 어셈블리에서 요청하거나 요청할 수 있는 권한을 지정하고 어셈블리를 허용하지 않을 권한을 지정하는 특성을 추가하십시오. 필수 권한을 지정하려면 SecurityAction.Minimum을 사용하십시오. 어셈블리에서 요청할 수 있는 권한을 지정하려면 SecurityAction.RequestOptional을 사용하고 어셈블리를 허용하지 않을 권한을 지정하려면 SecurityAction.RequestRefuse를 사용하십시오.</Description>
+   <Resolution Name="Default">'{0}' 어셈블리에 잘못된 권한 요청이 있습니다. SecurityAction.RequestMinimum을 사용하여 항상 최소 보안 권한을 지정해야 합니다.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="UsageRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>어셈블리에는 올바른 강력한 이름을 사용해야 합니다.</Name>
+   <Description>어셈블리에 강력한 이름이 없거나, 강력한 이름이 잘못되었거나, 컴퓨터 구성 때문에 강력한 이름이 유효합니다. 어셈블리를 이러한 상태로 배포하면 안 됩니다. 가장 일반적인 원인은 다음과 같습니다. 1) 어셈블리를 서명한 후 어셈블리의 내용이 수정되었습니다. 2) 서명 프로세스를 수행하지 못했습니다. 3) 어셈블리의 서명이 연기되었습니다. 4) 생략해서는 안 되는 검사를 생략하는 레지스트리 키가 있습니다.</Description>
+   <Resolution Name="NoStrongName">강력한 이름의 키로 '{0}'을(를) 서명하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="DesignRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>호출되지 않는 전용 코드를 사용하지 마십시오.</Name>
+   <Description>외부에 나타나지 않으며 알려진 런타임 진입점이 아닌 호출되지 않는 코드가 있습니다. 이 위반으로 인해 오류가 발생하는 경우에는 FxCop 팀에 문제 보고서를 보내십시오.</Description>
+   <Resolution Name="Default">'{0}'에 업스트림 공용 호출자 또는 보호된 호출자가 없습니다.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUninstantiatedInternalClasses" Category="Microsoft.Performance" CheckId="CA1812">
+   <Name>인스턴스화되지 않은 내부 클래스를 사용하지 마십시오.</Name>
+   <Description>인스턴스화되지 않은 내부 클래스가 발견되었습니다. 이 규칙은 런타임에 바인딩된 생성을 찾기 위한 것이 아니며 형식의 인스턴스가 이 방법(예: Activator.CreateInstance를 사용하거나 TypeConverter 생성자에 해당 형식을 인수로 전달하는 방법)으로만 생성되는 경우 가양성(false positives)을 유발할 수 있습니다.</Description>
+   <Resolution Name="Default">'{0}'은(는) 인스턴스화되지 않은 내부 클래스입니다. 어셈블리에서 해당 코드를 제거하십시오. 이 클래스가 정적 메서드만 포함하도록 의도된 경우에는 전용 생성자를 추가하여 컴파일러에서 기본 생성자가 생성되지 않도록 하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805">
+   <Name>불필요한 초기화를 수행하지 마십시오.</Name>
+   <Description>런타임에서 이미 수행한 초기화를 다시 수행하지 마십시오.</Description>
+   <Resolution Name="Default">{0}에서 {2} 형식의 {1} 필드를 {3}(으)로 초기화합니다. 런타임에서 자동으로 초기화되므로 이 초기화를 제거하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>리터럴을 지역화된 매개 변수로 전달하지 마십시오.</Name>
+   <Description>소스 코드에 포함된 문자열 리터럴은 지역화하기 어렵습니다. 지역화된 문자열이 일반적으로 필요한 상황에서는 문자열 리터럴을 인수로 전달하지 마십시오. 예를 들어, 대부분의 지역화된 응용 프로그램에서는 예외 생성자에 전달된 문자열 인수를 지역화해야 합니다. 따라서 예외 인스턴스를 만드는 경우 문자열 테이블에서 가져온 문자열 인수가 문자열 리터럴보다 적합합니다.</Description>
+   <Resolution Name="Default">{0}은(는) 리터럴을 {2}에 대한 호출의 {1} 매개 변수로 전달합니다. '{3}' 대신 리소스 테이블에서 다음 문자열 인수를 가져오십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="GlobalizationRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotRaiseReservedExceptionTypes" Category="Microsoft.Usage" CheckId="CA2201">
+   <Name>예약된 예외 형식을 발생시키지 마십시오.</Name>
+   <Description>사용자 정의 코드는 런타임에서 예약되거나 예외 형식으로 너무 일반적인 특정 예외를 만들어 발생시키지 않아야 합니다. 이러한 예외 형식에는 Exception, SystemException, ApplicationException 등이 있습니다. 런타임에서 예약된 예외 형식에는 ThreadAbortException, OutOfMemoryException, ExecutionEngineException, IndexOutOfRangeException 등이 있습니다.</Description>
+   <Resolution Name="TooGeneric">{0}이(가) 충분히 구체적이지 않고 사용자 정의 코드에서 발생하면 안 되는 '{1}' 형식의 예외를 만듭니다. 이러한 예외 인스턴스가 throw되면 다른 예외 형식을 사용하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="UsageRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotUseTimersThatPreventPowerStateChanges" Category="Microsoft.Mobility" CheckId="CA1601">
+   <Name>전원 상태 변경을 방해하는 타이머 사용 안 함</Name>
+   <Description>1초에 두 번 이상 폴링하거나 1초에 두 번 이상 발생하는 타이머는 사용하지 않는 것이 좋습니다. 정기적인 작업의 실행 빈도가 높아지면 CPU 사용률도 높아져 디스플레이 및 하드 디스크를 끄는 절전 유휴 타이머에 방해가 됩니다.</Description>
+   <Resolution Name="Default">{1} 메서드에서 {0}에 대한 호출을 수정하여 타이머 간격을 1초보다 크거나 같은 값으로 설정합니다.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error</MessageLevel>
+   <File Name="MobilityRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707">
+   <Name>식별자에는 밑줄을 사용할 수 없습니다.</Name>
+   <Description>식별자를 지정할 때 밑줄을 사용하지 마십시오. 응용 프로그램에 대해 생성된 일부 Visual Studio 식별자에 밑줄이 포함되어 있습니다. 일반적으로 공용 식별자에는 밑줄을 사용하지 않아야 합니다.</Description>
+   <Resolution Name="Namespace">'{0}' 네임스페이스에서 모든 밑줄을 제거하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="NamingRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>어셈블리를 CLSCompliant로 표시하십시오.</Name>
+   <Description>어셈블리는 CLSCompliant 특성을 사용하여 CLS 규격을 명시적으로 기술해야 합니다. 이 특성이 없는 어셈블리는 CLS 규격이 아닙니다. 어셈블리, 모듈 및 형식은 어셈블리, 모듈 또는 형식의 일부가 CLS 규격이 아니어도 CLS 규격이 될 수 있습니다. 다음과 같은 규칙이 적용됩니다. 1) 해당 요소가 CLSCompliant로 표시되면 모든 비규격 멤버의 CLSCompliant 특성의 인수를 false로 설정해야 합니다. 2) CLS 비규격 멤버 각각에 대해 비교 가능한 CLS 규격 대체 멤버가 제공되어야 합니다.</Description>
+   <Resolution Name="NoAttr">'{0}'은(는) CLSCompliantAttribute로 표시되어야 하며 해당 값은 true여야 합니다.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="DesignRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="PreferJaggedArraysOverMultidimensional" Category="Microsoft.Performance" CheckId="CA1814">
+   <Name>다차원 배열보다 가변 배열을 사용하십시오.</Name>
+   <Description>다차원 배열은 성능에 나쁜 영향을 줄 수 있으므로 가능하면 가변 배열을 사용하십시오. 가변 배열은 CLS 규격이 아닙니다. CLS 규격이 요구되는 경우에는 다차원 배열을 사용하십시오.</Description>
+   <Resolution Name="Default">'{0}'은(는) 다차원 배열입니다. 가능하면 이 배열을 가변 배열로 바꾸십시오. 가변 배열은 CLS 규격이 아닙니다.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="25">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>스택 정보를 유지하도록 다시 throw하십시오.</Name>
+   <Description>catch한 예외가 다시 발생하는 경우 IL의 다시 throw 명령을 사용하여 원래 스택 정보를 유지하십시오.</Description>
+   <Resolution Name="Default">{0}은(는) catch한 예외를 다시 throw하고 인수로 명시적으로 지정합니다. 예외가 처음 발생된 스택 위치를 유지하려면 인수 없이 'throw'를 대신 사용하십시오.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="UsageRules.dll" Version="8.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">범주</String>
+  <String Key="CollapseAll">모두 축소</String>
+  <String Key="CheckId">확인 ID</String>
+  <String Key="Error">오류</String>
+  <String Key="Errors">개 오류</String>
+  <String Key="Line">줄</String>
+  <String Key="LocationNotStoredInPdb">&lt;Pdb에 위치가 저장되지 않음&gt;</String>
+  <String Key="Project">프로젝트</String>
+  <String Key="Rule">규칙</String>
+  <String Key="RuleDescription">규칙 설명</String>
+  <String Key="Source">소스</String>
+  <String Key="Target">대상</String>
+  <String Key="Warning">경고</String>
+  <String Key="Warnings">경고</String>
+  <String Key="ReportTitle">Microsoft Visual Studio 2005 코드 분석 보고서</String>
+ </Localized>
+</FxCopReport>

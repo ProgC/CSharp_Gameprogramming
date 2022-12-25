@@ -1,0 +1,8 @@
+bin\Debug\testgraphics.exe
+bin\Debug\testgraphics.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\testgraphics.Form1.resources
+obj\Debug\testgraphics.Properties.Resources.resources
+obj\Debug\testgraphics.csproj.GenerateResource.Cache
+obj\Debug\testgraphics.exe
+obj\Debug\testgraphics.pdb

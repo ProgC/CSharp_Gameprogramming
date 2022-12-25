@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Game_BMSPlayer.Form1.resources
+obj\Debug\Game_BMSPlayer.Properties.Resources.resources
+obj\Debug\Game_BMSPlayer.csproj.GenerateResource.Cache
+bin\Debug\Game_BMSPlayer.exe
+bin\Debug\Game_BMSPlayer.pdb
+obj\Debug\Game_BMSPlayer.exe
+obj\Debug\Game_BMSPlayer.pdb

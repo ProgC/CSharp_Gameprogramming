@@ -1,0 +1,5 @@
+bin\Debug\ArrayOptimizeProgram.exe
+bin\Debug\ArrayOptimizeProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ArrayOptimizeProgram.exe
+obj\Debug\ArrayOptimizeProgram.pdb

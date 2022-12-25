@@ -1,0 +1,8 @@
+bin\Debug\Graphics_DrawPolygon.exe
+bin\Debug\Graphics_DrawPolygon.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawPolygon.Form1.resources
+obj\Debug\Graphics_DrawPolygon.Properties.Resources.resources
+obj\Debug\Graphics_DrawPolygon.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawPolygon.exe
+obj\Debug\Graphics_DrawPolygon.pdb

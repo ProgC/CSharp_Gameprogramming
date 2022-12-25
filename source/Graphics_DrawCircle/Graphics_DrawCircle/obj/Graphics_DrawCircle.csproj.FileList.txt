@@ -1,0 +1,8 @@
+bin\Debug\Graphics_DrawCircle.exe
+bin\Debug\Graphics_DrawCircle.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawCircle.Form1.resources
+obj\Debug\Graphics_DrawCircle.Properties.Resources.resources
+obj\Debug\Graphics_DrawCircle.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawCircle.exe
+obj\Debug\Graphics_DrawCircle.pdb

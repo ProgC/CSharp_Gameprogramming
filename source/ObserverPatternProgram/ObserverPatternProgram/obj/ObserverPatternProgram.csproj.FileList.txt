@@ -1,0 +1,5 @@
+bin\Debug\ObserverPatternProgram.exe
+bin\Debug\ObserverPatternProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ObserverPatternProgram.exe
+obj\Debug\ObserverPatternProgram.pdb

@@ -1,0 +1,8 @@
+bin\Debug\Graphics_DrawRectangleWithLinearGradientBrush.exe
+bin\Debug\Graphics_DrawRectangleWithLinearGradientBrush.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics_DrawRectangleWithLinearGradientBrush.Form1.resources
+obj\Debug\Graphics_DrawRectangleWithLinearGradientBrush.Properties.Resources.resources
+obj\Debug\Graphics_DrawRectangleWithLinearGradientBrush.csproj.GenerateResource.Cache
+obj\Debug\Graphics_DrawRectangleWithLinearGradientBrush.exe
+obj\Debug\Graphics_DrawRectangleWithLinearGradientBrush.pdb

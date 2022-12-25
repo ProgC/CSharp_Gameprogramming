@@ -1,0 +1,8 @@
+bin\Debug\ShadowLabelProgram.exe
+bin\Debug\ShadowLabelProgram.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShadowLabelProgram.Properties.Resources.resources
+obj\Debug\ShadowLabelProgram.csproj.GenerateResource.Cache
+obj\Debug\ShadowLabelProgram.exe
+obj\Debug\ShadowLabelProgram.pdb
+obj\Debug\ShadowLabelProgram.Form1.resources
